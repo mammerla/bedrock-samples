@@ -1,0 +1,2 @@
+xcopy /d /y /e strawberrycowbp %localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\development_behavior_packs\strawberrycowbp\
+xcopy /d /y /e strawberrycowrp %localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\development_resource_packs\strawberrycowrp\

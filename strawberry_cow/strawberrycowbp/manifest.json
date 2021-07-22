@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Strawberry Cow!",
+    "name": "StrawberryCowBP",
+    "uuid":"F3DDAEAA-B295-410A-A4AE-72536581A53D",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "Strawberry Cow!",
+      "type": "data",
+      "uuid": "A1271BBD-2102-441B-87AB-21FD3751C1B6",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid":"5B8376DE-6C9E-4EEF-B69A-E77E07CC9994",
+      "version":[1,0,0]
+    }
+ ]
+}
